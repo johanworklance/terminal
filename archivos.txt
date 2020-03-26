@@ -1,0 +1,5 @@
+~$mandos.docx
+archivos.txt
+comandos.docx
+nuevo.txt
+test.txt
